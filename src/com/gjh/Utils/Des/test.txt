@@ -1,0 +1,1 @@
+[{"dynamicURI":"/phoneBook","dynamicParameter":{"method":"queryFamilyCircleNums"},"dynamicDataNodeName":"loginNode2"}]
