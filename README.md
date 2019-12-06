@@ -3,5 +3,5 @@
 主要包含：
   加解密：AES/Des/rsa/rc4/Tea/MD5/base64
   压缩：gzip/zlib
-  读写文件
+  读写文件等工具代码
   
